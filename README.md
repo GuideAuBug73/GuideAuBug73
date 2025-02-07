@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hey! SysOps & Self-Hosting Enthusiast
 
-<!--
-**GuideAuBug73/GuideAuBug73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 My Tech Philosophy
+Passionate learner driven by **hands-on experience** and *continuous growth*. I believe in learning through doing, constantly diving deep into technologies by experimenting, breaking, and rebuilding.
 
-Here are some ideas to get you started:
+## 🛠️ Core Interests
+- Self-Hosting Solutions
+- DevOps & SysOps
+- Infrastructure as Code (IaC)
+- Cloud Native Technologies
+- Home Lab Experiments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Learning Approach
+My learning is powered by:
+- **Curiosity** as my compass
+- *Practical experience* as my teacher
+- Constant exploration of emerging technologies
+- Deep technical challenges
+
+## 🔧 Technical Playground
+- `Containerization` (Docker, Kubernetes)
+- `Self-Hosted Services`
+- `Automation Frameworks`
+- `Cloud Infrastructure`
+
+**Turning curiosity into infrastructure! 💡**
